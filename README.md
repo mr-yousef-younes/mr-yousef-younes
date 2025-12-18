@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/mr-yousef-younes/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mr-yousef-younes" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -17,7 +16,7 @@ I'm currently an **AI Code Trainer** at Outlier.ai, where I refine AI models for
 
 - 📧 Reach me at: [Mr.yousef.younes@gmail.com](mailto:Mr.yousef.younes@gmail.com)
 - 📍 Location: Alexandria, Egypt
-- 📱 Phone: +201004788956 | +201288385795
+- 📱 Phone: +201004788956
 
 <br>
 
