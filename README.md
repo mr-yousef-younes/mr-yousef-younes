@@ -1,12 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Yousef Alaa!</h1>
 
 <p align="left">
-<a href="https://linkedin.com/in/mr-yousef-younes/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mr-yousef-younes/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:Mr.yousef.younes@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br>
 
-Hi, I'm **Yousef Alaa Ali younes**, a Full Stack Software Engineer 👨🏻‍💻 from Alexandria, Egypt. I specialize in building cross-platform mobile applications using **Flutter** (Ready for all devices!) and web solutions. 
+Hi, I'm **Yousef Alaa Ali Younes**, a Full Stack Software Engineer 👨🏻‍💻 from Alexandria, Egypt. I specialize in building cross-platform mobile applications using **Flutter** (**Ready for all devices!**) and scalable web solutions. 
 
 I'm currently an **AI Code Trainer** at Outlier.ai, where I refine AI models for Python and Java. I'm a lifelong learner, currently pursuing professional certifications from IBM and Google in Full Stack Development and Cybersecurity. 🚀
 
@@ -54,18 +55,3 @@ I'm currently an **AI Code Trainer** at Outlier.ai, where I refine AI models for
 
 ### Show some ❤️ by starring some of my repositories!
 </div>
-
-<!--
-**mr-yousef-younes/mr-yousef-younes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
