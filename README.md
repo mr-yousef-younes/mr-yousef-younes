@@ -6,7 +6,7 @@
 
 <br>
 
-Hi, I'm **Yousef Alaa Ali**, a Full Stack Software Engineer 👨🏻‍💻 from Alexandria, Egypt. I specialize in building cross-platform mobile applications using **Flutter** (Ready for all devices!) and web solutions. 
+Hi, I'm **Yousef Alaa Ali younes**, a Full Stack Software Engineer 👨🏻‍💻 from Alexandria, Egypt. I specialize in building cross-platform mobile applications using **Flutter** (Ready for all devices!) and web solutions. 
 
 I'm currently an **AI Code Trainer** at Outlier.ai, where I refine AI models for Python and Java. I'm a lifelong learner, currently pursuing professional certifications from IBM and Google in Full Stack Development and Cybersecurity. 🚀
 
